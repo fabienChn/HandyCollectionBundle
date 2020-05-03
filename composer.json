@@ -1,0 +1,17 @@
+{
+  "name": "fabienChn/HandyCollectionBundle",
+  "description": "A handy collection manager containing some nice to have helpers for dealing with arrays and arrays of entities",
+  "type": "symfony-bundle",
+  "authors": [
+    {
+      "name": "Fabien Cohen",
+      "email": "fabiencohen96@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "symfony/framework-bundle": ">=4.0.0",
+    "doctrine/doctrine-bundle": ">=1.2",
+    "doctrine/orm": ">=2.6"
+  }
+}
